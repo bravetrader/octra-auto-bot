@@ -4,7 +4,7 @@
 
 1. Clone the this repo
 ```
-git clone https://github.com/bravetrader/octra-wallet-gen.git
+git clone https://github.com/bravetrader/octra-auto-bot.git
 ```
 
 ```
