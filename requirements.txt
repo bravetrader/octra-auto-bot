@@ -1,0 +1,7 @@
+colorama
+art
+tqdm
+mnemonic
+pynacl
+base58
+aiohttp
