@@ -1,4 +1,4 @@
-## octra-wallet-gen
+## octra auto transactions
 ### Auto Tx bot
 ## Setup Guide
 
