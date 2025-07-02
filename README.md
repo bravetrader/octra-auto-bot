@@ -27,4 +27,6 @@ pip3 install -r requirements.txt
 ```
 python3 bot.py
 ```
-Enjoy!
+Enjoy! 💌
+
+Source: ▶️ [octra-labs](https://github.com/octra-labs/octra_pre_client)
